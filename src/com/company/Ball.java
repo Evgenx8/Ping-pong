@@ -11,7 +11,7 @@ public class Ball {
     private int xVel, yVel; // 1 или -1
     private int speed = 8; // скорость мяча 12312423234123
 
-    //конструктор
+    //конструктор qqqqqqqqqqq
     public Ball() {
         reset();
     }
