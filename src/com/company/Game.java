@@ -14,7 +14,7 @@ public class Game extends Canvas implements Runnable {
     private Thread gameThread; // поток, в котором игра обновляется и рисуется (однопоточная игра)
     // мяч, отскакивает от стен и ракеток
     private Ball ball;
-    // пакетикипакетикипакетикипакетикипакетикипакетикипакетикипакетики
+    // ракетки
     private Paddle leftPaddle;
     private Paddle rightPaddle;
     // Объект главного меню
