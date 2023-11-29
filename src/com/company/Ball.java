@@ -27,7 +27,7 @@ public class Ball {
         yVel = Game.sign(Math.random() * 2.0 - 1);
     }
 
-     //рисование мяча
+     //рисование мочи
      //g: Графический объект для рисования всего
     public void draw(Graphics g) {
         g.setColor(Color.white);
