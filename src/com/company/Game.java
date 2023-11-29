@@ -3,7 +3,7 @@ package com.company;
 import java.awt.*;
 import java.awt.image.BufferStrategy;
 
-//класс, который управляет игрой, рисует и обновляет физику
+//класс, который управляет игрой, рисует и обновляет физикуфизикуфизикуфизикуфизикуфизику
 
 public class Game extends Canvas implements Runnable {
 
