@@ -7,7 +7,7 @@ public class Ball {
 
     public static final int SIZE = 16;
 
-    private int x, y; // положение
+    private int x, y; // положение qweqrwereqwrewqer
     private int xVel, yVel; // 1 или -1
     private int speed = 8; // скорость мяча 12312423234123
 
