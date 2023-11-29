@@ -9,7 +9,7 @@ import java.awt.Rectangle;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-// Главное меню в начале игры
+// Главное меню в начале хуйни
 public class MainMenu extends MouseAdapter {
 
     public boolean active; // true, если отображается главное меню
