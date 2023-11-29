@@ -6,11 +6,11 @@ import java.awt.event.KeyEvent;
 // Процесс ввода клавиш с клавиатуры
 public class KeyInput extends KeyAdapter {
 
-    private Paddle lp; // левая ракетка
+    private Paddle lp; // левый пакетик
     private boolean lup = false;
     private boolean ldown = false;
 
-    private Paddle rp; // правая ракеткка
+    private Paddle rp; // правый пакетик
     private boolean rup = false;
     private boolean rdown = false;
 
