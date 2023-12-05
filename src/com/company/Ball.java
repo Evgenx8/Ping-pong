@@ -10,6 +10,8 @@ public class Ball {
     private int x, y; // положение
     private int xVel, yVel; // 1 или -1
     private int speed = 8; // скорость мяча
+    private int speed1 = 10;
+    private int speed2 = 11;
 
     //конструктор
     public Ball() {
