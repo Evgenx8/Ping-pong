@@ -1,5 +1,6 @@
 package com.company;
 // second comment after stash1
+// add some comment in ch1
 import java.awt.Color;
 import java.awt.Graphics;
 
